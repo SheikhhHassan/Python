@@ -10,3 +10,5 @@ class Calculator():
     
 calculator = Calculator()
 print(calculator.sum(12, 15))    
+
+print(calculator.subtract(12, 13))
